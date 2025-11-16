@@ -1,5 +1,5 @@
 
-# <p align="center">
+<p align="center">
 X-RadioList – Redesigned UI Edition
 </p>
 A modern, redesigned radio list interface for **PMAVoice / pma-voice** in FiveM.
@@ -106,6 +106,7 @@ See: [https://www.gnu.org/licenses/](https://www.gnu.org/licenses/)
 * Redesigned UI & Enhancements: **Alpha**
 
 ---
+
 
 
 
